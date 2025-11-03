@@ -20,7 +20,7 @@ This work is the extended version of [SMPLer-X](https://arxiv.org/abs/2309.17448
 
 ## News
 
-- [2025-10-21] SMPLest-X accepted to T-PAMI
+- [2025-10-21] SMPLest-X accepted to TPAMI
 - [2025-02-17] Pretrained model available for download.
 - [2025-02-14] 💌💌💌 Brand new codebase released for training, testing and inference.
 - [2025-01-20] Paper released on [arXiv](https://arxiv.org/abs/2501.09782).
@@ -141,7 +141,7 @@ sh scripts/test.sh SynHand smplest_x_h 5
 
 ## Explore More [SMPLCap](https://github.com/SMPLCap) Projects
 
-- [T-PAMI'25] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X): An extended version of [SMPLer-X](https://github.com/SMPLCap/SMPLer-X) with stronger foundation models.
+- [TPAMI'25] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X): An extended version of [SMPLer-X](https://github.com/SMPLCap/SMPLer-X) with stronger foundation models.
 - [ECCV'24] [WHAC](https://github.com/SMPLCap/WHAC): World-grounded human pose and camera estimation from monocular videos.
 - [CVPR'24] [AiOS](https://github.com/SMPLCap/AiOS): An all-in-one-stage pipeline combining detection and 3D human reconstruction. 
 - [NeurIPS'23] [SMPLer-X](https://github.com/SMPLCap/SMPLer-X): Scaling up EHPS towards a family of generalist foundation models.
