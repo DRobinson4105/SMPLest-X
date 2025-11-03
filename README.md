@@ -122,17 +122,26 @@ sh scripts/test.sh SynHand smplest_x_h 5
 
 ## Citation
 ```text
+# SMPLest-X
 @article{yin2025smplest,
   title={SMPLest-X: Ultimate Scaling for Expressive Human Pose and Shape Estimation},
   author={Yin, Wanqi and Cai, Zhongang and Wang, Ruisi and Zeng, Ailing and Wei, Chen and Sun, Qingping and Mei, Haiyi and Wang, Yanjun and Pang, Hui En and Zhang, Mingyuan and Zhang, Lei and Loy, Chen Change and Yamashita, Atsushi and Yang, Lei and Liu, Ziwei},
   journal={arXiv preprint arXiv:2501.09782},
   year={2025}
 }
+
+# SMPLer-X
+@inproceedings{cai2023smplerx,
+    title={{SMPLer-X}: Scaling up expressive human pose and shape estimation},
+    author={Cai, Zhongang and Yin, Wanqi and Zeng, Ailing and Wei, Chen and Sun, Qingping and Yanjun, Wang and Pang, Hui En and Mei, Haiyi and Zhang, Mingyuan and Zhang, Lei and Loy, Chen Change and Yang, Lei and Liu, Ziwei},
+    booktitle={Advances in Neural Information Processing Systems},
+    year={2023}
+}
 ```
 
 ## Explore More [SMPLCap](https://github.com/SMPLCap) Projects
 
-- [T-PAMI] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X): An extended version of [SMPLer-X](https://github.com/SMPLCap/SMPLer-X) with stronger foundation models.
+- [T-PAMI'25] [SMPLest-X](https://github.com/SMPLCap/SMPLest-X): An extended version of [SMPLer-X](https://github.com/SMPLCap/SMPLer-X) with stronger foundation models.
 - [ECCV'24] [WHAC](https://github.com/SMPLCap/WHAC): World-grounded human pose and camera estimation from monocular videos.
 - [CVPR'24] [AiOS](https://github.com/SMPLCap/AiOS): An all-in-one-stage pipeline combining detection and 3D human reconstruction. 
 - [NeurIPS'23] [SMPLer-X](https://github.com/SMPLCap/SMPLer-X): Scaling up EHPS towards a family of generalist foundation models.
