@@ -20,7 +20,7 @@ This work is the extended version of [SMPLer-X](https://arxiv.org/abs/2309.17448
 
 ## News
 
-- [2025-10-21] SMPLest-X accepted to TPAMI
+- [2025-10-21] SMPLest-X accepted to TPAMI.
 - [2025-02-17] Pretrained model available for download.
 - [2025-02-14] 💌💌💌 Brand new codebase released for training, testing and inference.
 - [2025-01-20] Paper released on [arXiv](https://arxiv.org/abs/2501.09782).
